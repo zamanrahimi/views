@@ -162,6 +162,7 @@ function redirectIT (sel,page) {
  <center>
     
     <img alt="Afghanistan" title="Case Management System | سیستم مدیریت قضایای افغانستان" src="<?=base_url()?>images/af_logo.png" width="150" height="150" /> 
+    <h2>Github!</h2>
     <h1>بسم الله الرحمن الرحیم</h1> 
     <h2>سیستم مدیریت قضایای افغانستان <br /> Afghanistan Case Management System  </h2> 
     
